@@ -1,0 +1,17 @@
+-INTRODUCTION:
+a pokemon game that u need to catch pekeball but be carefull
+because the timer is just 5s between each pokeball
+
+-HOW TO PLAY:
+you can move to all directions with arrows
+(left, right, top, down)
+
+
+
+
+
+
+
+-OWNER:
+
+	@ANAS DRAIAF

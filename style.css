@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#gameScreen {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);    
+    border: 5px solid black;
+}
+
+img {
+    display: none;
+}
+
+audio {
+    display: none;
+}
